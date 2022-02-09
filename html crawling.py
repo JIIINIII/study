@@ -19,3 +19,5 @@ p = soup.html.body.p
 
 print("h1 : "+h1.string)
 print("p : " +p.string)
+
+
